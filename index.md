@@ -14,3 +14,6 @@ The contrasting reality of the offspring of these now-grown-up children, consist
 *Grand Theft Auto 5 online, a popular videogame with hyper-realistic features*
 
 Haven’t we all heard our parents stories about how things were better at their time? People clearly romanticize their childhood, and that will happen even with us. The thing here is that claims like that often don’t go as deep as to realize that the circumstances that caused those behaviours are abismally different. However, we have to give it to our parents that clearly there are important health implications, like vision problems related to the blue light from the screens and maybe even not getting enough sun exposure, but as for the social relations it is clear that online gaming stands still, and maybe superior, because it expands the reach of the kids for them to chat with people all around the world, while also keeping them connected with their colleagues which they’ll meet tomorrow at school, while today they stay safe at home.
+
+If you liked this post, you would help us a lot by leaving a comment or a like, and please be sure to check out the rest of the section on modern topics, where we address important questions raised by todays society.
+Spread the word!
