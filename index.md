@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# “KIDS TODAY DON’T KNOW HOW TO LIVE, WITH THEIR EYES GLUED TO SCREENS”
+## A situational analysis of two opposing perspectives on today kids living in online videogames
 
-You can use the [editor on GitHub](https://github.com/grupo404/grupo404/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grupo404/grupo404/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The current situation in my neighborhood has brought one question of crucial importance to all our society, given its context, as it as may even impact advertising and the way we interact: How many times have you (or your children, if you are a parent) got out of the house to play with friends outside (or perhaps just given you a hand in chores)? Most of us will answer the same, a seemingly normal but depressing and overall, extremely concerning trait of many teenagers nowadays, who prefer to stay at home, physically alone, but connecting with their peers through online videogames, where they can share their experience of a different reality.
+There are two main perspectives on this problem, which are mostly a product of the conditions in which their respective supporters grew in, on one hand we have the parents, and people of older generations which grew without much influence of technology, as such they had nothing to entertain themselves with alone at their room, so they seeked distraction with other children from the block, which they had to meet outside, at least in their first interaction, all of these while at least their mother (in most cases) keeping an eye on them.
+The contrasting reality of the offspring of these now-grown-up children, consists of the majority of them having not even their moms at the house, as an increase of job opportunities allowed them to move to the office, a situation which coupled to a rise of the criminality in the cities, made parents worry about what could happen to their kids as they are not at home, locking them up at house. Despite this, electronic devices continue to lower their prices, which expanded the range of home appliances to include computers, tv screens and even, to keep the kid happy, a video game system, without having to go out to the arcade, even for this experience, as their parents had.
+Haven’t we all heard our parents stories about how things were better at their time? People clearly romanticize their childhood, and that will happen even with us. The thing here is that claims like that often don’t go as deep as to realize that the circumstances that caused those behaviours are abismally different. However, we have to give it to our parents that clearly there are important health implications, like vision problems related to the blue light from the screens and maybe even not getting enough sun exposure, but as for the social relations it is clear that online gaming stands still, and maybe superior, because it expands the reach of the kids for them to chat with people all around the world, while also keeping them connected with their colleagues which they’ll meet tomorrow at school, while today they stay safe at home.
