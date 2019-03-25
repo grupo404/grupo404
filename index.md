@@ -5,6 +5,12 @@ The current situation in my neighborhood has brought one question of crucial imp
 
 There are two main perspectives on this problem, which are mostly a product of the conditions in which their respective supporters grew in, on one hand we have the parents, and people of older generations which grew without much influence of technology, as such they had nothing to entertain themselves with alone at their room, so they seeked distraction with other children from the block, which they had to meet outside, at least in their first interaction, all of these while at least their mother (in most cases) keeping an eye on them.
 
+![Kid playing](https://4.bp.blogspot.com/-Olt8shhbyS8/VfF_Mz0MEII/AAAAAAAAARI/oNaZxkrBYAQ/s1600/iPadPro_Lifestyle-Gaming-PRINT.tif)
+*Parents are now employing videogames to calm down little children*
+
 The contrasting reality of the offspring of these now-grown-up children, consists of the majority of them having not even their moms at the house, as an increase of job opportunities allowed them to move to the office, a situation which coupled to a rise of the criminality in the cities, made parents worry about what could happen to their kids as they are not at home, locking them up at house. Despite this, electronic devices continue to lower their prices, which expanded the range of home appliances to include computers, tv screens and even, to keep the kid happy, a video game system, without having to go out to the arcade, even for this experience, as their parents had.
+
+![GTA5 Screenshot](https://cdn.wccftech.com/wp-content/uploads/2013/08/vlc-2013-08-17-22-47-53-16.png)
+*Grand Theft Auto 5 online, a popular videogame with hyper-realistic features*
 
 Haven’t we all heard our parents stories about how things were better at their time? People clearly romanticize their childhood, and that will happen even with us. The thing here is that claims like that often don’t go as deep as to realize that the circumstances that caused those behaviours are abismally different. However, we have to give it to our parents that clearly there are important health implications, like vision problems related to the blue light from the screens and maybe even not getting enough sun exposure, but as for the social relations it is clear that online gaming stands still, and maybe superior, because it expands the reach of the kids for them to chat with people all around the world, while also keeping them connected with their colleagues which they’ll meet tomorrow at school, while today they stay safe at home.
